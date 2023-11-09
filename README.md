@@ -1,6 +1,10 @@
 # Recursive-function
 
-##Aim: To write a C# program to reverse a number using recursive function.
+##Aim: 
+
+To write a C# program to reverse a number using recursive function.
+
+
 
 ##Algorithm:
 
@@ -75,3 +79,7 @@ namespace rec
 
 
 ##Result:
+
+
+The C# program to reverse a number using recursive function is executed successfully.
+
